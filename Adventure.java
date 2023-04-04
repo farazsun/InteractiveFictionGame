@@ -1,6 +1,6 @@
 /*
-* [Adventure].java
-* Author: [RYAN CULLEN]
+* Adventure.java
+* Author: Faraz Sunil
 * Statement of Academic Honesty:
 *
 * The following code represents my own work. I have neither
