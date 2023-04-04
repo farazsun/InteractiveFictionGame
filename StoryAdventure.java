@@ -1,22 +1,11 @@
 /*
-* Adventure.java
+* StoryAdventure.java
 * Author: Faraz Sunil
-* Statement of Academic Honesty:
 *
-* The following code represents my own work. I have neither
-* received nor given inappropriate assistance. I have not copied
-* or modified code from anywhere other than the authorized
-* sources. I recognize that any unauthorized sharing, assistance,
-* or plagiarism will be handled in accordance with both the
-* University of Georgia's Academic Honesty Policy and the
-* policies of this course. I recognize that my work is based on
-* an assignment created by the Department of Computer
-* Science at the University of Georgia. Any publishing or posting
-* of source code at any time for this project is prohibited.
 */
 import java.util.Scanner;
 
-public class Adventure {
+public class StoryAdventure {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
@@ -31,9 +20,9 @@ public class Adventure {
 		Chest adventureChest;
 		
 		
-		System.out.println("Welcome to UGA Adventures: Episode 1\n"
+		System.out.println("Welcome to Divine Adventures: Episode 1\n"
 				+ "The Adventure of the Cave of Redundancy Adventure\n"
-				+ "By: Ryan Cullen\n");
+				+ "By: Faraz Sunil\n");
 		
 		player.setX(0); player.setY(0); // Setting the player's initial position to (0,0).
 		
